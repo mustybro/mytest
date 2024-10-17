@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.but1{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+img{
+    width: 70%;
+}
+
+.mother{
+    padding-left: 100px;
+    
+}
+
+.tab1{
+    width: 35%;
+    padding-left: 80px;
+    padding-top: 50px;
+    
+}
+h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+
+.tab2{
+    width: 20%;
+    border: 1px solid black;
+    display: flex;
+
+}
+#img2{
+    height: 300px;
+    width: 30%;
+}
+
